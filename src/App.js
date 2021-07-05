@@ -1,4 +1,5 @@
 import { useEffect } from 'react';
+import Card from './Components/card';
 import useStore from './store';
 import './styles.css';
 
@@ -13,12 +14,11 @@ export default function App() {
     fetchStudents();
   }, []);
 
-  console.log(students);
-  console.log(teachers);
   return (
     <div className='App'>
-      <h1>Hello Fulano</h1>
-      <h2>Edit to see some magic happen!</h2>
+      <Card />
+      <Card />
+      <Card />
     </div>
   );
 }

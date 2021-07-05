@@ -2,6 +2,8 @@
   "teachers": [
     {
       "id": 1,
+      "title": "Lead Teacher",
+      "school": "Boolean Bootcamp",
       "firstName": "Sergio",
       "lastName": "Neves",
       "image": "https://media-exp3.licdn.com/dms/image/C4E03AQHDibWea-X0MA/profile-displayphoto-shrink_200_200/0/1585751767599?e=1629936000&v=beta&t=r_9O81c55GVIgvxttABJhDaq3ltwF5z6DShh_5Z1JgE",
@@ -11,6 +13,8 @@
     },
     {
       "id": 2,
+      "title": "Priciple",
+      "school": "Boolean Bootcamp",
       "firstName": "Nicolas",
       "lastName": "Marcora",
       "image": "https://avatars.githubusercontent.com/u/16916098?v=4",
@@ -20,6 +24,8 @@
     },
     {
       "id": 3,
+      "title": "Lead Teacher",
+      "school": "Boolean Bootcamp",
       "firstName": "Steven",
       "lastName": "Rico",
       "image": "https://avatars.githubusercontent.com/u/61965373?v=4",
