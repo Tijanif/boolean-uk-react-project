@@ -25,18 +25,144 @@
       "image": "https://avatars.githubusercontent.com/u/61965373?v=4",
       "github": "https://github.com/stevenrico",
       "linkedIn": "https://www.linkedin.com/in/steven-rico-85345414b/",
-      "slug": "Super awesome teacher - loves Tijani"
+      "slug": "Chilling and cocktails"
     }
   ],
   "students": [
     {
       "id": 1,
-      "firstName": "Steven",
-      "lastName": "Rico",
-      "image": "https://avatars.githubusercontent.com/u/61965373?v=4",
-      "github": "https://github.com/stevenrico",
+      "firstName": "Ademola",
+      "lastName": "Fabuyi",
+      "image": "https://avatars.githubusercontent.com/u/40247526?v=4",
+      "github": "https://github.com/brokensythe",
       "linkedIn": "https://www.linkedin.com/in/steven-rico-85345414b/",
-      "slug": "Super awesome teacher - loves Tijani"
+      "slug": "Warden of the North"
+    },
+    {
+      "id": 2,
+      "firstName": "Anas",
+      "lastName": "Ansari",
+      "image": "https://avatars.githubusercontent.com/u/81304964?v=4",
+      "github": "https://github.com/anasansari74",
+      "linkedIn": "https://www.linkedin.com/in/muhammad-anas-ansari-a8149320a/",
+      "slug": "Our beloved baby brother!"
+    },
+    {
+      "id": 3,
+      "firstName": "Catherine",
+      "lastName": "Li",
+      "image": "https://avatars.githubusercontent.com/u/81304846?v=4",
+      "github": "https://github.com/catlirex",
+      "linkedIn": "https://www.linkedin.com/in/catherine-lmy/",
+      "slug": "Coding Ninja"
+    },
+    {
+      "id": 4,
+      "firstName": "Duncan",
+      "lastName": "Magill",
+      "image": "https://avatars.githubusercontent.com/u/74967036?v=4",
+      "github": "https://github.com/duncan0801",
+      "linkedIn": "https://www.linkedin.com/in/duncanmagill/",
+      "slug": "Coding Philosopher"
+    },
+    {
+      "id": 5,
+      "firstName": "Elio",
+      "lastName": "Mehmeti",
+      "image": "https://avatars.githubusercontent.com/u/81304859?v=4",
+      "github": "https://github.com/Elio1995",
+      "linkedIn": "",
+      "slug": "Babyface Coder"
+    },
+    {
+      "id": 6,
+      "firstName": "Geeta",
+      "lastName": "K",
+      "image": "https://avatars.githubusercontent.com/u/52134584?v=4",
+      "github": "https://github.com/GK230",
+      "linkedIn": "https://www.linkedin.com/in/geeta-kotecha-59729816/",
+      "slug": "Foodie"
+    },
+    {
+      "id": 7,
+      "firstName": "Linlin",
+      "lastName": "Li",
+      "image": "https://cdn.discordapp.com/attachments/826913840091758592/861564539329708042/image0.jpg",
+      "github": "https://github.com/ultrahumus9000",
+      "linkedIn": "https://www.linkedin.com/in/linlin-li-90b66010a?originalSubdomain=uk",
+      "slug": "Inquisitive coder"
+    },
+    {
+      "id": 8,
+      "firstName": "Sean",
+      "lastName": "Davison",
+      "image": "https://avatars.githubusercontent.com/u/20663081?v=4",
+      "github": "https://github.com/targetv",
+      "linkedIn": "",
+      "slug": "Scribble Master"
+    },
+    {
+      "id": 9,
+      "firstName": "Sydney",
+      "lastName": "Murray",
+      "image": "https://avatars.githubusercontent.com/u/73971994?v=4",
+      "github": "https://github.com/sydneymurray",
+      "linkedIn": "https://www.linkedin.com/in/sydney-murray-b2924a24/",
+      "slug": "GrandMaster Code"
+    },
+    {
+      "id": 10,
+      "firstName": "Lizzie",
+      "lastName": "Hand",
+      "image": "https://media-exp1.licdn.com/dms/image/C4E03AQEq13nKlTD4_g/profile-displayphoto-shrink_800_800/0/1599473646478?e=1631145600&v=beta&t=ChDgjl_8xbA1HLdIrGjUO6Uh7ozjgNNDgsAIuQQdUjg",
+      "github": "https://github.com/lizziehand",
+      "linkedIn": "https://www.linkedin.com/in/lizzie-hand-981880129/",
+      "slug": "Chilled programer"
+    },
+    {
+      "id": 11,
+      "firstName": "Tati",
+      "lastName": "Kudrashova",
+      "image": "https://media-exp1.licdn.com/dms/image/C4D35AQHMdXH9P5VTsQ/profile-framedphoto-shrink_800_800/0/1600692537764?e=1625569200&v=beta&t=9sIYS5qR9qzKN9FKgm5717tCnIK7fir5KHVH8pmK30o",
+      "github": "https://github.com/tati89",
+      "linkedIn": "https://www.linkedin.com/in/tatsiana-kudrashova-0b903382/",
+      "slug": ""
+    },
+    {
+      "id": 12,
+      "firstName": "Tijani",
+      "lastName": "Fulani",
+      "image": "https://avatars.githubusercontent.com/u/13035880?s=400&v=4",
+      "github": "https://github.com/Tijanif",
+      "linkedIn": "https://www.linkedin.com/in/tijanifulani/",
+      "slug": "The complainer"
+    },
+    {
+      "id": 13,
+      "firstName": "Valentina",
+      "lastName": "Ponchietti",
+      "image": "https://avatars.githubusercontent.com/u/81304855?v=4",
+      "github": "https://github.com/valeponchi",
+      "linkedIn": "https://www.linkedin.com/in/valentina-ponchietti-8954871b6/",
+      "slug": "Mammina Coder"
+    },
+    {
+      "id": 14,
+      "firstName": "Jonathon",
+      "lastName": "Wilks",
+      "image": "https://avatars.githubusercontent.com/u/79091107?v=4",
+      "github": "https://github.com/JDWilks",
+      "linkedIn": "https://www.linkedin.com/in/jonathon-david-wilks/?originalSubdomain=uk",
+      "slug": "Crypto Guru"
+    },
+    {
+      "id": 15,
+      "firstName": "Millie",
+      "lastName": "Vidot",
+      "image": "https://avatars.githubusercontent.com/u/81304869?v=4",
+      "github": "https://github.com/MillieVidot",
+      "linkedIn": "https://www.linkedin.com/in/camilla-vidot-b6450a68",
+      "slug": "Transmutation programmer"
     }
   ]
 }
