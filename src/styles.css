@@ -2,3 +2,18 @@
   font-family: sans-serif;
   text-align: center;
 }
+
+/* 
+colors: 
+boolean blue:     border: 0;
+    color: #fff!important;
+    background: #006cfa;
+
+    boolean green:
+        color: #0cd977!important;
+    background: transparent;
+    border: 2px solid #0cd977;
+    border-radius: 6px;
+    padding: 10px 20px;
+        --pink: #e83e8c;
+*/
