@@ -1,0 +1,42 @@
+{
+  "teachers": [
+    {
+      "id": 1,
+      "firstName": "Sergio",
+      "lastName": "Neves",
+      "image": "https://media-exp3.licdn.com/dms/image/C4E03AQHDibWea-X0MA/profile-displayphoto-shrink_200_200/0/1585751767599?e=1629936000&v=beta&t=r_9O81c55GVIgvxttABJhDaq3ltwF5z6DShh_5Z1JgE",
+      "github": "https://github.com/seenevz",
+      "linkedIn": "https://uk.linkedin.com/in/seenevz",
+      "slug": "Super awesome teacher - loves Tijani"
+    },
+    {
+      "id": 2,
+      "firstName": "Nicolas",
+      "lastName": "Marcora",
+      "image": "https://avatars.githubusercontent.com/u/16916098?v=4",
+      "github": "https://github.com/MinimumViablePerson",
+      "linkedIn": "https://uk.linkedin.com/in/nmarcora",
+      "slug": "Funny teacher who cannot stop using potatos in examples"
+    },
+    {
+      "id": 3,
+      "firstName": "Steven",
+      "lastName": "Rico",
+      "image": "https://avatars.githubusercontent.com/u/61965373?v=4",
+      "github": "https://github.com/stevenrico",
+      "linkedIn": "https://www.linkedin.com/in/steven-rico-85345414b/",
+      "slug": "Super awesome teacher - loves Tijani"
+    }
+  ],
+  "students": [
+    {
+      "id": 1,
+      "firstName": "Steven",
+      "lastName": "Rico",
+      "image": "https://avatars.githubusercontent.com/u/61965373?v=4",
+      "github": "https://github.com/stevenrico",
+      "linkedIn": "https://www.linkedin.com/in/steven-rico-85345414b/",
+      "slug": "Super awesome teacher - loves Tijani"
+    }
+  ]
+}
