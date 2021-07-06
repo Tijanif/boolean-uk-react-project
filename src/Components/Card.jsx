@@ -4,7 +4,9 @@ const Card = ({ img, alt, title, content }) => {
   return (
     <li>
       <div className='card'>
-        <img src={img} alt={alt} />
+        <div className='frame'>
+          <img src={img} alt={alt} />
+        </div>
         <div className='container'>
           <h4>
             <b>{title}</b>

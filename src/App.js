@@ -15,6 +15,7 @@ import Cards from './Components/Cards';
 
 import useStore from './store';
 import './styles.css';
+import Header from './Components/Header';
 
 export default function App() {
   const fetchTeachers = useStore((store) => store.fetchTeachers);
@@ -29,8 +30,9 @@ export default function App() {
 
   return (
     <div className='App'>
+      <Header />
       <MainWrapper>
-        <Router>
+        <Switch>
           <Route exact path='/'>
             <HomePage />
           </Route>
@@ -43,9 +45,9 @@ export default function App() {
           <Route exact path='/students'>
             <StudentssPage />
           </Route>
-        </Router>
-        <Footer />
+        </Switch>
       </MainWrapper>
+      <Footer />
     </div>
   );
 }
