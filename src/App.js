@@ -1,5 +1,5 @@
 import { useEffect } from 'react';
-import Card from './Components/card';
+import Footer from './Components/Footer/Footer';
 import useStore from './store';
 import './styles.css';
 
@@ -16,9 +16,7 @@ export default function App() {
 
   return (
     <div className='App'>
-      <Card />
-      <Card />
-      <Card />
+      <Footer />
     </div>
   );
 }
