@@ -1,5 +1,7 @@
+import Cards from '../Components/Cards';
+
 const HomePage = () => {
-  return <div>HomePage</div>;
+  return <Cards />;
 };
 
 export default HomePage;

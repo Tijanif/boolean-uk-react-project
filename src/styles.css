@@ -1,3 +1,19 @@
+/* Resets */
+
+* {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+
+li {
+  list-style: none;
+}
+
+img {
+  width: 100%;
+}
+
 .App {
   font-family: sans-serif;
   text-align: center;

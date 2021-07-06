@@ -31,21 +31,19 @@ export default function App() {
     <div className='App'>
       <MainWrapper>
         <Router>
-          <Route exact path='./'>
+          <Route exact path='/'>
             <HomePage />
           </Route>
-          <Route exact path='./home'>
+          <Route exact path='/home'>
             <HomePage />
           </Route>
-          <Route exact path='./teachers'>
+          <Route exact path='/teachers'>
             <TeachersPage />
           </Route>
-          <Route exact path='./students'>
+          <Route exact path='/students'>
             <StudentssPage />
           </Route>
         </Router>
-
-        <Cards />
         <Footer />
       </MainWrapper>
     </div>
