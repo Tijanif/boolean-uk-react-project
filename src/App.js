@@ -11,7 +11,6 @@ import HomePage from './pages/HomePage';
 import TeachersPage from './pages/TeachersPage';
 import StudentssPage from './pages/StudentsPage';
 import Footer from './Components/Footer';
-import Cards from './Components/Cards';
 
 import useStore from './store';
 import './styles.css';
