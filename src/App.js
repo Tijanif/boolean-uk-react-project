@@ -1,11 +1,5 @@
 import { useEffect } from 'react';
-import {
-  BrowserRouter as Router,
-  Redirect,
-  Route,
-  Switch,
-  useHistory,
-} from 'react-router-dom';
+import { BrowserRouter as Router, Route, Switch } from 'react-router-dom';
 import MainWrapper from './Components/MainWrapper';
 import HomePage from './pages/HomePage';
 import TeachersPage from './pages/TeachersPage';
