@@ -12,9 +12,7 @@ import Header from './Components/Header';
 
 export default function App() {
   const fetchTeachers = useStore((store) => store.fetchTeachers);
-  const teachers = useStore((store) => store.teachers);
   const fetchStudents = useStore((store) => store.fetchStudents);
-  const students = useStore((store) => store.students);
 
   useEffect(() => {
     fetchTeachers();
